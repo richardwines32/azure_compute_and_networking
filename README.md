@@ -53,19 +53,10 @@ In this tutorial, we will be working with DNS. <br />
 <p>
 3.  Part 3 (Observe SSH Traffic).  Back in Wireshark, filter for SSH traffic only.  From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address).  Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark.  Exit the SSH connection by typing ‘exit’ and pressing [Enter]
 
-</p>
-</p>
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 36 54 PM" src="https://github.com/richardwines32/DNS/assets/162821778/48ff7798-4c89-43f6-b9da-5d872b54d4c3">
-</p>
-
-<br />
-<p>
-2.  Local DNS Cache Exercise.  Go back to DC-1 and change mainframe’s record address to 8.8.8.8.  
-
-</p>
-<p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 44 15 PM" src="https://github.com/richardwines32/DNS/assets/162821778/12d51939-2004-4714-bc18-7632b227d1ad">
+<img width="1512" alt="Screenshot 2024-03-13 at 4 41 56 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/5fddd1dc-e232-4d98-848a-392f296968d8">
+<img width="1512" alt="Screenshot 2024-03-13 at 4 44 39 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/cffa03b7-ef08-475f-a37d-76a5f1e290e8">
+<img width="1512" alt="Screenshot 2024-03-13 at 4 46 50 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/87d36fe6-349a-40a7-9e6f-5b610bc06431">
 
 </p>
 
