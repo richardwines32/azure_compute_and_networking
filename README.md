@@ -20,8 +20,10 @@ In this tutorial, we will be working with DNS. <br />
 
 
 </p>
-<p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 25 17 PM" src="https://github.com/richardwines32/DNS/assets/162821778/b9834df5-0199-44c9-899a-5d69ddbd6d27">
+<p><img width="1512" alt="Screenshot 2024-03-13 at 3 07 10 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/7b0824e2-c132-4e92-b558-347a6efbac77">
+<img width="1512" alt="Screenshot 2024-03-13 at 3 10 05 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f7c9a7ee-5200-486c-b407-6311585fc6f9">
+<img width="1512" alt="Screenshot 2024-03-13 at 3 10 50 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f4fac8cf-9add-4ef3-b7ba-0fa34b6d50f7">
+
  
 </p>
 <br />
