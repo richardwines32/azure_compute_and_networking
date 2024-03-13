@@ -23,6 +23,9 @@ In this tutorial, we will be working with DNS. <br />
 <p><img width="1512" alt="Screenshot 2024-03-13 at 3 07 10 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/7b0824e2-c132-4e92-b558-347a6efbac77">
 <img width="1512" alt="Screenshot 2024-03-13 at 3 10 05 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f7c9a7ee-5200-486c-b407-6311585fc6f9">
 <img width="1512" alt="Screenshot 2024-03-13 at 3 10 50 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f4fac8cf-9add-4ef3-b7ba-0fa34b6d50f7">
+<img width="1512" alt="Screenshot 2024-03-13 at 3 15 01 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/8ee22e77-b2c1-4bea-bfb5-13061d64a5f1">
+<img width="1512" alt="Screenshot 2024-03-13 at 3 16 05 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/5c23ee57-90ef-434e-b0e6-52473a407671">
+<img width="1512" alt="Screenshot 2024-03-13 at 3 23 49 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/7d09396e-d7e9-4a20-9d4d-dd81b5c4c75e">
 
  
 </p>
