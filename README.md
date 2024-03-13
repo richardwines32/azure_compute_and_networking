@@ -51,7 +51,8 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-1B.  Go back to Client-1 and try to ping it. Observe that it works. 
+3.  Part 3 (Observe SSH Traffic).  Back in Wireshark, filter for SSH traffic only.  From your Windows 10 VM, “SSH into” your Ubuntu Virtual Machine (via its private IP address).  Type commands (username, pwd, etc) into the linux SSH connection and observe SSH traffic spam in WireShark.  Exit the SSH connection by typing ‘exit’ and pressing [Enter]
+
 </p>
 </p>
 <p>
