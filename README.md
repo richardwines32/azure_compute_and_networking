@@ -31,7 +31,8 @@ In this tutorial, we will be working with DNS. <br />
 </p>
 <br />
 <p>
- 1A.  Create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address. 
+2.Part 2 (Observe ICMP Traffic).  Use Remote Desktop to connect to your Windows 10 Virtual Machine.  Within your Windows 10 Virtual Machine, Install Wireshark.  Open Wireshark and filter for ICMP traffic only.  Retrieve the private IP address of the Ubuntu VM and attempt to ping it from within the Windows 10 VM.  Observe ping requests and replies within WireShark.  From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark.  Initiate a perpetual/non-stop ping from your Windows 10 VM to your Ubuntu VM.  Open the Network Security Group your Ubuntu VM is using and disable incoming (inbound) ICMP traffic.  Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity.  Re-enable ICMP traffic for the Network Security Group your Ubuntu VM is using.  Back in the Windows 10 VM, observe the ICMP traffic in WireShark and the command line Ping activity (should start working).  Stop the ping activity.
+ 
 </p> 
 <p>
 <img width="1512" alt="Screenshot 2024-03-11 at 6 32 54 PM" src="https://github.com/richardwines32/DNS/assets/162821778/ce944376-2469-4a6f-9465-6b47107ca165">
