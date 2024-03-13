@@ -62,7 +62,8 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-2A.  Go back to Client-1 and ping “mainframe” again.  Observe that it still pings the old address.  
+4.  Part 4 (Observe DHCP Traffic)  Back in Wireshark, filter for DHCP traffic only.  From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew). 
+ Observe the DHCP traffic appearing in WireShark.
 </p>
 <p>
 <img width="1512" alt="Screenshot 2024-03-11 at 6 47 23 PM" src="https://github.com/richardwines32/DNS/assets/162821778/cd41320b-6a15-424b-9233-4848f7334d9d">
