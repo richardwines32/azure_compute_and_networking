@@ -1,4 +1,4 @@
-<h1>DNS</h1>
+<h1>Azure Compute and Networking</h1>
 In this tutorial, we will be working with DNS. <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -6,17 +6,18 @@ In this tutorial, we will be working with DNS. <br />
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- DNS Manager
+- Wireshark
 
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Windows Server
+- Linux (Ubuntu)
 
 <h2>Actions and Observations</h2>
 <p>
-1.  A-Record Exercise.  Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin).  Connect/log into Client-1 as an admin (mydomain\jane_admin).  From Client-1 try to ping “mainframe” notice that it fails.  
+1.  Part 1 (Create our Resources).  Create a Resource Group.  Create a Windows 10 Virtual Machine (VM).  While creating the VM, select the previously created Resource Group.  While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet.  Create a Linux (Ubuntu) VM.  While creating the VM, select the previously created Resource Group and Vnet.  Observe Your Virtual Network within Network Watcher.
+
 
 </p>
 <p>
