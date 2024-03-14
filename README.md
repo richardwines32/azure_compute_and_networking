@@ -75,12 +75,13 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-2B.  Observe the local dns cache (ipconfig /displaydns).  
+5.  Part 5 (Observe DNS Traffic).  Back in Wireshark, filter for DNS traffic only.  From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are.  Observe the DNS traffic being show in WireShark.
+
 </p>
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 52 37 PM" src="https://github.com/richardwines32/DNS/assets/162821778/f6504710-f6cb-4cd1-b759-9e53c825b706">
-
-
+<img width="1512" alt="Screenshot 2024-03-14 at 3 01 46 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/e84f4293-2429-4f3c-b4a3-4820ac7f9d7b">
+<img width="1512" alt="Screenshot 2024-03-14 at 3 02 46 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/6bf06731-c6d9-4608-a1d5-ccf28cd8f2a0">
+<img width="1512" alt="Screenshot 2024-03-14 at 3 03 24 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/8a5ea0b7-646c-402c-bf7b-bd19074cb070">
 </p>
 
 <br />
