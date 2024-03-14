@@ -65,8 +65,11 @@ In this tutorial, we will be working with DNS. <br />
 4.  Part 4 (Observe DHCP Traffic)  Back in Wireshark, filter for DHCP traffic only.  From your Windows 10 VM, attempt to issue your VM a new IP address from the command line (ipconfig /renew). 
  Observe the DHCP traffic appearing in WireShark.
 </p>
+
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 47 23 PM" src="https://github.com/richardwines32/DNS/assets/162821778/cd41320b-6a15-424b-9233-4848f7334d9d">
+<img width="1512" alt="Screenshot 2024-03-14 at 2 54 58 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/3692df9e-330c-40da-9bc0-8dea49c28dcb">
+<img width="1512" alt="Screenshot 2024-03-14 at 3 00 06 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f60c2993-f4ab-4fce-ba57-bc740243699e">
+<img width="1512" alt="Screenshot 2024-03-14 at 3 01 08 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/5cbb2210-27bf-4d79-add4-3c479166454e">
 
 </p>
 
