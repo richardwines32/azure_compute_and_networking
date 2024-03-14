@@ -86,36 +86,12 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-2C.  Flush the DNS cache (ipconfig /flushdns).  Observe that the cache is empty.  
+6.  Part 6 (Observe RDP Traffic) Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)*.  Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?  Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefore traffic is always being transmitted.
+ 
 </p>
 <p>
 <img width="1512" alt="Screenshot 2024-03-11 at 6 55 02 PM" src="https://github.com/richardwines32/DNS/assets/162821778/bd81d852-f929-4f1f-aab4-a248ffd3efac">
 
 </p>
 
-<br />
-<p>
-2D.  Attempt to ping “mainframe” again. Observe the address of the new record is showing up.
-</p>
-<p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 56 09 PM" src="https://github.com/richardwines32/DNS/assets/162821778/9387b286-b4ee-4c67-a513-c2088944b34d">
-
-</p>
-
-<br />
-<p>
-3.  CNAME Record Exercise.  Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”.  
- 
-</p>
-<p>
-<img width="1512" alt="Screenshot 2024-03-11 at 7 06 47 PM" src="https://github.com/richardwines32/DNS/assets/162821778/a26fa383-10f6-4c7d-99e9-e4f43108f0e9">
-
-</p>
-
-<br />
-<p>
-Go back to Client-1 and attempt to ping “search”, observe the results of the CNAME record.  Finish.  
-</p>
-<p>
-<img width="1512" alt="Screenshot 2024-03-11 at 7 08 52 PM" src="https://github.com/richardwines32/DNS/assets/162821778/7c64022c-f499-4d6d-aa15-2cd4b9516750">
 
