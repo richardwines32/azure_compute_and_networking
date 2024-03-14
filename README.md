@@ -86,11 +86,12 @@ In this tutorial, we will be working with DNS. <br />
 
 <br />
 <p>
-6.  Part 6 (Observe RDP Traffic) Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)*.  Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?  Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefore traffic is always being transmitted.
+6.  Part 6 (Observe RDP Traffic) Back in Wireshark, filter for RDP traffic only (tcp.port == 3389)*.  Observe the immediate non-stop spam of traffic? Why do you think it’s non-stop spamming vs only showing traffic when you do an activity?  Answer: because the RDP (protocol) is constantly showing you a live stream from one computer to another, therefore traffic is always being transmitted.  Finish.
  
 </p>
 <p>
-<img width="1512" alt="Screenshot 2024-03-11 at 6 55 02 PM" src="https://github.com/richardwines32/DNS/assets/162821778/bd81d852-f929-4f1f-aab4-a248ffd3efac">
+<img width="1512" alt="Screenshot 2024-03-14 at 3 10 44 PM" src="https://github.com/richardwines32/azure_compute_and_networking/assets/162821778/f7ae1b08-063c-4c5e-830e-637c2ea49a37">
+
 
 </p>
 
